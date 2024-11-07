@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/kuu/hls-parser.git"
   },
+  "files": [
+    "*.ts"
+  ],
   "keywords": [
     "HLS",
     "media",
